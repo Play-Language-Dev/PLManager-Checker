@@ -5,6 +5,10 @@
     "https://raw.githubusercontent.com/Play-Language-Dev/PLManager-Checker/main/공지1.png",
     "https://raw.githubusercontent.com/Play-Language-Dev/PLManager-Checker/main/공지2.png"
   ],
+  "notice_links": [
+    "",
+    ""
+  ],
   "TrialPG_link": "https://play-language.com/install",
   "PG_link": "https://play-language.com/installpg"
 }
