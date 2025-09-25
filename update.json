@@ -2,11 +2,13 @@
   "version": "v1.0.4",
   "url": "https://github.com/Play-Language-Dev/PLManager-Checker/releases/download/v1.0.4/PLManagerSetup_v1.0.4.exe",
   "notice_images": [
+    "https://raw.githubusercontent.com/Play-Language-Dev/PLManager-Checker/main/공지4.png",
     "https://raw.githubusercontent.com/Play-Language-Dev/PLManager-Checker/main/공지1.png",
     "https://raw.githubusercontent.com/Play-Language-Dev/PLManager-Checker/main/공지2.png",
     "https://raw.githubusercontent.com/Play-Language-Dev/PLManager-Checker/main/공지3.png"
   ],
   "notice_links": [
+    "",
     "https://www.instagram.com/reel/DLqDwzHM_RW/?utm_source=ig_web_copy_link",
     "https://www.instagram.com/reel/DLqEAKosKy6/?utm_source=ig_web_copy_link",
     "https://www.instagram.com/reel/DLp_ZqHMvJP/?utm_source=ig_web_copy_link"
